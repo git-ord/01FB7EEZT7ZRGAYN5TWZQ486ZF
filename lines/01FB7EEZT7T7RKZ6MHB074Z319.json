@@ -1,0 +1,32 @@
+{
+  "id": "01FB7EEZT7T7RKZ6MHB074Z319",
+  "created_at": "2021-07-22T15:48:35+00:00",
+  "updated_at": "2021-07-22T15:48:35+00:00",
+  "name": "Generic Cotton Shirt",
+  "images": {
+    "thumb": null,
+    "full": "http://placeimg.com/640/480/city"
+  },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [
+
+  ],
+  "quantity": {
+    "amount": 8,
+    "unit": "each"
+  },
+  "unit_price": {
+    "amount": 297,
+    "currency": "USD"
+  },
+  "subtotal": {
+    "amount": 2376,
+    "currency": "USD"
+  },
+  "discounts": [
+
+  ]
+}
